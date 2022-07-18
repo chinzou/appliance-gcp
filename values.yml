@@ -1,0 +1,29 @@
+isAppliance: false
+rwxStorageClass: standard
+nfs:
+  enabled: false
+apps:
+  updatebox:
+    enabled: true
+  appointments:
+    enabled: true
+  bahmni_config:
+    enabled: true
+  bahmni_filestore:
+    enabled: true
+  bahmniapps:
+    enabled: true
+  implementer_interface:
+    enabled: true
+  mysql:
+    enabled: true
+  odoo:
+    enabled: true
+  eip_client:
+    enabled: true
+  openmrs:
+    enabled: true
+  postgresql:
+    enabled: true
+  proxy:
+    enabled: true
